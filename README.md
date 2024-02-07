@@ -1,11 +1,11 @@
-Oblig 2
+Oblig 1
 =======
-OsloMet brukernavn: 
+OsloMet brukernavn: heaur5362
 
-GitHub brukernavn: 
+GitHub brukernavn: heaur
 
-Github repo URL: 
+Github repo URL: https://github.com/data1700-v23/oblig-1-heaur
 
-Fullt navn: 
+Fullt navn: Hedda Auråker
 
 Kort beskrivelse av applikasjon (5-10 setninger):
